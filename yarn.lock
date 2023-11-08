@@ -1288,10 +1288,10 @@
   resolved "https://registry.yarnpkg.com/@capacitor/haptics/-/haptics-5.0.5.tgz#f9fb4e5e0c3aadadeae6f46428e7de4256f3d826"
   integrity sha512-iDgmCehrdc0Sdob/y3KjAX0sll/y9PTP6hJubwTpIpRt3kOKGDhMMNkUGRKm6myTIRPpa2Mm8jWCSYaA4pPq4g==
 
-"@capacitor/ios@^5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@capacitor/ios/-/ios-5.0.4.tgz#337a5a917b75a5b5d257bb0b08b6f1d7bb396241"
-  integrity sha512-JVyggBTbHR1OWqxTRysgGKhZHDuM0AQwCIbylvEpza5X0zmaltbQxVC83abcwOKsgNJnrcuv+HUgV+LXg8Dk4Q==
+"@capacitor/ios@^5.5.0":
+  version "5.5.1"
+  resolved "https://registry.yarnpkg.com/@capacitor/ios/-/ios-5.5.1.tgz#e07d0752b8934215a9defc2d22a537060f2dd7f7"
+  integrity sha512-h00qt8u32t8eEbIkuG4IjR0r34YZC0sIXglDH8fRDdA84xDkTybmz3WtdpRWDzh6ukE2RIY7rmD7p410WSJ2yA==
 
 "@capacitor/splash-screen@^5.0.4":
   version "5.0.4"
