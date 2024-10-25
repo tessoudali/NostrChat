@@ -49,7 +49,7 @@
     "buffer": "^6.0.3",
     "capacitor-secure-storage-plugin": "^0.9.0",
     "comlink": "^4.4.1",
-    "crypto-browserify": "^3.12.0",
+    "crypto-browserify": "^3.12.1",
     "emoji-mart": "^5.5.2",
     "i18next": "^22.4.9",
     "joi": "^17.7.0",
